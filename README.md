@@ -43,3 +43,13 @@ The timestamp is the use to get the block for both the start and end Block using
 
 The start Block, endBlock and the address is then used to crawl all transactions occured to and fro the address given using the etherscan api as follow:
 [](https://api.etherscan.io/api?module=account&action=txlist&address=${address}&startblock=${startBlock}&endblock=${endBlock}&sort=asc&apikey=ApiKey)
+
+```
+## Install Dependencies
+```yarn```
+
+## Start App on development
+```yarn dev```
+
+## Start App on prod
+```yarn start```
