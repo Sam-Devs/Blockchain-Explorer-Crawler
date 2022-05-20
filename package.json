@@ -1,0 +1,8 @@
+{
+  "name": "Blockchain-Explorer-Crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Sam-Devs/Blockchain-Explorer-Crawler.git",
+  "author": "Sam Ayorinde <ayorinde2@gmail.com>",
+  "license": "MIT"
+}
