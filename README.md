@@ -13,23 +13,6 @@ The application should collect and display ALL transaction data starting from th
 
 If a user requests to view transactions associated with the address 0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f from block 9000000 to the current block, your application should be able to crawl and visualize all transaction data (addresses that have sent and received tokens from the address 0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f, and how much ETH was used for a given transaction) in that period of time.
 
-### For bonus points:
-
-Given a date in YYYY-MM-DD format, the program should return the exact value of ETH that was available on the given address at YYYY-MM-DD 00:00 UTC time.
-
-Do the same task above to include tokens amounts (other than ETH)
-
-### Instructions
-
-Use any technology you would like/are familiar with (language, database)
-
-Please include instructions on how to run the project together with the code (so our team members can run it in one of our environments)
-
-A list of officially available ethereum clients can be found here: http://ethdocs.org/en/latest/connecting-to-clients/. Other implementations can be found on the web. Additionally, you can utilize an API from a service such as https://etherscan.io/apis or register an account on infura.io service to access data from the blockchain directly.
-
-See https://etherscan.io/ for an example of how data can be visualized.
-
-
 ## Using the App
 Create an account on [etherscan](https://etherscan.io/) and generate an api Key.
 
