@@ -1,5 +1,4 @@
 # Ethereum-Transaction-Crawler
-## Ethereum transactions Crawler
 This application allows a user to view transaction data from the Ethereum blockchain associated with a specific wallet address W that the user inputs, starting with block B. The application should get information on:
 
 - wallets (addresses) and 
